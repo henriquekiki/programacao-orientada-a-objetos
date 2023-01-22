@@ -1,5 +1,7 @@
 interface OperacaoMatematica {
-    
+    public static void main(String[] args) {
+        
+    }
     void soma(double operando1, double operando2);
 
     void subtracao(double operando1, double operando2);
